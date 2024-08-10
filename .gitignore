@@ -2,3 +2,4 @@ PKGBUILD
 Makefile
 *tar.gz
 venv/
+pkgbuilder
